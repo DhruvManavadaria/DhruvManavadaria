@@ -63,8 +63,9 @@ I am a Mobile App Developer with **7.7 years of experience** (6 years in iOS, 2 
 
 ## 📊 GitHub Stats  
 
-![Dhruv's GitHub Stats](https://github-readme-stats.vercel.app/api?dhruvmanavadaria=your-dhruvmanavadaria&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?dhruvmanavadaria=your-dhruvmanavadaria&layout=compact&theme=tokyonight)  
+![Dhruv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhruvmanavadaria&show_icons=true&theme=tokyonight&cache_seconds=7200)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvmanavadaria&layout=compact&theme=tokyonight&cache_seconds=7200)
+![Streak](https://streak-stats.demolab.com?user=dhruvmanavadaria&theme=tokyonight&hide_border=true)
 
 ---
 
